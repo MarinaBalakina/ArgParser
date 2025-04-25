@@ -1,0 +1,474 @@
+Start testing: Dec 20 10:10 RTZ 2 (çèìà)
+----------------------------------------------------------
+1/17 Testing: ArgParserTestSuite.EmptyTest
+1/17 Test: ArgParserTestSuite.EmptyTest
+Command: "D:/university/c++/laba4/build/tests/Debug/argparser_tests.exe" "--gtest_filter=ArgParserTestSuite.EmptyTest" "--gtest_also_run_disabled_tests"
+Directory: D:/university/c++/laba4/build/tests
+"ArgParserTestSuite.EmptyTest" start time: Dec 20 10:10 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\university\c++\laba4\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = ArgParserTestSuite.EmptyTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArgParserTestSuite
+[ RUN      ] ArgParserTestSuite.EmptyTest
+[       OK ] ArgParserTestSuite.EmptyTest (0 ms)
+[----------] 1 test from ArgParserTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"ArgParserTestSuite.EmptyTest" end time: Dec 20 10:10 RTZ 2 (çèìà)
+"ArgParserTestSuite.EmptyTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/17 Testing: ArgParserTestSuite.StringTest
+2/17 Test: ArgParserTestSuite.StringTest
+Command: "D:/university/c++/laba4/build/tests/Debug/argparser_tests.exe" "--gtest_filter=ArgParserTestSuite.StringTest" "--gtest_also_run_disabled_tests"
+Directory: D:/university/c++/laba4/build/tests
+"ArgParserTestSuite.StringTest" start time: Dec 20 10:10 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\university\c++\laba4\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = ArgParserTestSuite.StringTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArgParserTestSuite
+[ RUN      ] ArgParserTestSuite.StringTest
+[       OK ] ArgParserTestSuite.StringTest (0 ms)
+[----------] 1 test from ArgParserTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"ArgParserTestSuite.StringTest" end time: Dec 20 10:10 RTZ 2 (çèìà)
+"ArgParserTestSuite.StringTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/17 Testing: ArgParserTestSuite.ShortNameTest
+3/17 Test: ArgParserTestSuite.ShortNameTest
+Command: "D:/university/c++/laba4/build/tests/Debug/argparser_tests.exe" "--gtest_filter=ArgParserTestSuite.ShortNameTest" "--gtest_also_run_disabled_tests"
+Directory: D:/university/c++/laba4/build/tests
+"ArgParserTestSuite.ShortNameTest" start time: Dec 20 10:10 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\university\c++\laba4\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = ArgParserTestSuite.ShortNameTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArgParserTestSuite
+[ RUN      ] ArgParserTestSuite.ShortNameTest
+[       OK ] ArgParserTestSuite.ShortNameTest (0 ms)
+[----------] 1 test from ArgParserTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"ArgParserTestSuite.ShortNameTest" end time: Dec 20 10:10 RTZ 2 (çèìà)
+"ArgParserTestSuite.ShortNameTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/17 Testing: ArgParserTestSuite.DefaultTest
+4/17 Test: ArgParserTestSuite.DefaultTest
+Command: "D:/university/c++/laba4/build/tests/Debug/argparser_tests.exe" "--gtest_filter=ArgParserTestSuite.DefaultTest" "--gtest_also_run_disabled_tests"
+Directory: D:/university/c++/laba4/build/tests
+"ArgParserTestSuite.DefaultTest" start time: Dec 20 10:10 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\university\c++\laba4\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = ArgParserTestSuite.DefaultTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArgParserTestSuite
+[ RUN      ] ArgParserTestSuite.DefaultTest
+[       OK ] ArgParserTestSuite.DefaultTest (0 ms)
+[----------] 1 test from ArgParserTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"ArgParserTestSuite.DefaultTest" end time: Dec 20 10:10 RTZ 2 (çèìà)
+"ArgParserTestSuite.DefaultTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/17 Testing: ArgParserTestSuite.NoDefaultTest
+5/17 Test: ArgParserTestSuite.NoDefaultTest
+Command: "D:/university/c++/laba4/build/tests/Debug/argparser_tests.exe" "--gtest_filter=ArgParserTestSuite.NoDefaultTest" "--gtest_also_run_disabled_tests"
+Directory: D:/university/c++/laba4/build/tests
+"ArgParserTestSuite.NoDefaultTest" start time: Dec 20 10:10 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\university\c++\laba4\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = ArgParserTestSuite.NoDefaultTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArgParserTestSuite
+[ RUN      ] ArgParserTestSuite.NoDefaultTest
+Error: Missing required argument --param1
+[       OK ] ArgParserTestSuite.NoDefaultTest (0 ms)
+[----------] 1 test from ArgParserTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"ArgParserTestSuite.NoDefaultTest" end time: Dec 20 10:10 RTZ 2 (çèìà)
+"ArgParserTestSuite.NoDefaultTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/17 Testing: ArgParserTestSuite.StoreValueTest
+6/17 Test: ArgParserTestSuite.StoreValueTest
+Command: "D:/university/c++/laba4/build/tests/Debug/argparser_tests.exe" "--gtest_filter=ArgParserTestSuite.StoreValueTest" "--gtest_also_run_disabled_tests"
+Directory: D:/university/c++/laba4/build/tests
+"ArgParserTestSuite.StoreValueTest" start time: Dec 20 10:10 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\university\c++\laba4\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = ArgParserTestSuite.StoreValueTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArgParserTestSuite
+[ RUN      ] ArgParserTestSuite.StoreValueTest
+[       OK ] ArgParserTestSuite.StoreValueTest (0 ms)
+[----------] 1 test from ArgParserTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"ArgParserTestSuite.StoreValueTest" end time: Dec 20 10:10 RTZ 2 (çèìà)
+"ArgParserTestSuite.StoreValueTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/17 Testing: ArgParserTestSuite.MultiStringTest
+7/17 Test: ArgParserTestSuite.MultiStringTest
+Command: "D:/university/c++/laba4/build/tests/Debug/argparser_tests.exe" "--gtest_filter=ArgParserTestSuite.MultiStringTest" "--gtest_also_run_disabled_tests"
+Directory: D:/university/c++/laba4/build/tests
+"ArgParserTestSuite.MultiStringTest" start time: Dec 20 10:10 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\university\c++\laba4\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = ArgParserTestSuite.MultiStringTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArgParserTestSuite
+[ RUN      ] ArgParserTestSuite.MultiStringTest
+[       OK ] ArgParserTestSuite.MultiStringTest (0 ms)
+[----------] 1 test from ArgParserTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"ArgParserTestSuite.MultiStringTest" end time: Dec 20 10:10 RTZ 2 (çèìà)
+"ArgParserTestSuite.MultiStringTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/17 Testing: ArgParserTestSuite.IntTest
+8/17 Test: ArgParserTestSuite.IntTest
+Command: "D:/university/c++/laba4/build/tests/Debug/argparser_tests.exe" "--gtest_filter=ArgParserTestSuite.IntTest" "--gtest_also_run_disabled_tests"
+Directory: D:/university/c++/laba4/build/tests
+"ArgParserTestSuite.IntTest" start time: Dec 20 10:10 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\university\c++\laba4\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = ArgParserTestSuite.IntTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArgParserTestSuite
+[ RUN      ] ArgParserTestSuite.IntTest
+[       OK ] ArgParserTestSuite.IntTest (1 ms)
+[----------] 1 test from ArgParserTestSuite (2 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"ArgParserTestSuite.IntTest" end time: Dec 20 10:10 RTZ 2 (çèìà)
+"ArgParserTestSuite.IntTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/17 Testing: ArgParserTestSuite.MultiValueTest
+9/17 Test: ArgParserTestSuite.MultiValueTest
+Command: "D:/university/c++/laba4/build/tests/Debug/argparser_tests.exe" "--gtest_filter=ArgParserTestSuite.MultiValueTest" "--gtest_also_run_disabled_tests"
+Directory: D:/university/c++/laba4/build/tests
+"ArgParserTestSuite.MultiValueTest" start time: Dec 20 10:10 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\university\c++\laba4\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = ArgParserTestSuite.MultiValueTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArgParserTestSuite
+[ RUN      ] ArgParserTestSuite.MultiValueTest
+[       OK ] ArgParserTestSuite.MultiValueTest (0 ms)
+[----------] 1 test from ArgParserTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"ArgParserTestSuite.MultiValueTest" end time: Dec 20 10:10 RTZ 2 (çèìà)
+"ArgParserTestSuite.MultiValueTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/17 Testing: ArgParserTestSuite.MinCountMultiValueTest
+10/17 Test: ArgParserTestSuite.MinCountMultiValueTest
+Command: "D:/university/c++/laba4/build/tests/Debug/argparser_tests.exe" "--gtest_filter=ArgParserTestSuite.MinCountMultiValueTest" "--gtest_also_run_disabled_tests"
+Directory: D:/university/c++/laba4/build/tests
+"ArgParserTestSuite.MinCountMultiValueTest" start time: Dec 20 10:10 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\university\c++\laba4\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = ArgParserTestSuite.MinCountMultiValueTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArgParserTestSuite
+[ RUN      ] ArgParserTestSuite.MinCountMultiValueTest
+Error: Argument --param1 requires at least 10 values.
+[       OK ] ArgParserTestSuite.MinCountMultiValueTest (0 ms)
+[----------] 1 test from ArgParserTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"ArgParserTestSuite.MinCountMultiValueTest" end time: Dec 20 10:10 RTZ 2 (çèìà)
+"ArgParserTestSuite.MinCountMultiValueTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/17 Testing: ArgParserTestSuite.FlagTest
+11/17 Test: ArgParserTestSuite.FlagTest
+Command: "D:/university/c++/laba4/build/tests/Debug/argparser_tests.exe" "--gtest_filter=ArgParserTestSuite.FlagTest" "--gtest_also_run_disabled_tests"
+Directory: D:/university/c++/laba4/build/tests
+"ArgParserTestSuite.FlagTest" start time: Dec 20 10:10 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\university\c++\laba4\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = ArgParserTestSuite.FlagTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArgParserTestSuite
+[ RUN      ] ArgParserTestSuite.FlagTest
+[       OK ] ArgParserTestSuite.FlagTest (0 ms)
+[----------] 1 test from ArgParserTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"ArgParserTestSuite.FlagTest" end time: Dec 20 10:10 RTZ 2 (çèìà)
+"ArgParserTestSuite.FlagTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/17 Testing: ArgParserTestSuite.FlagsTest
+12/17 Test: ArgParserTestSuite.FlagsTest
+Command: "D:/university/c++/laba4/build/tests/Debug/argparser_tests.exe" "--gtest_filter=ArgParserTestSuite.FlagsTest" "--gtest_also_run_disabled_tests"
+Directory: D:/university/c++/laba4/build/tests
+"ArgParserTestSuite.FlagsTest" start time: Dec 20 10:10 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\university\c++\laba4\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = ArgParserTestSuite.FlagsTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArgParserTestSuite
+[ RUN      ] ArgParserTestSuite.FlagsTest
+[       OK ] ArgParserTestSuite.FlagsTest (0 ms)
+[----------] 1 test from ArgParserTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"ArgParserTestSuite.FlagsTest" end time: Dec 20 10:10 RTZ 2 (çèìà)
+"ArgParserTestSuite.FlagsTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/17 Testing: ArgParserTestSuite.PositionalArgTest
+13/17 Test: ArgParserTestSuite.PositionalArgTest
+Command: "D:/university/c++/laba4/build/tests/Debug/argparser_tests.exe" "--gtest_filter=ArgParserTestSuite.PositionalArgTest" "--gtest_also_run_disabled_tests"
+Directory: D:/university/c++/laba4/build/tests
+"ArgParserTestSuite.PositionalArgTest" start time: Dec 20 10:10 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\university\c++\laba4\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = ArgParserTestSuite.PositionalArgTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArgParserTestSuite
+[ RUN      ] ArgParserTestSuite.PositionalArgTest
+[       OK ] ArgParserTestSuite.PositionalArgTest (0 ms)
+[----------] 1 test from ArgParserTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"ArgParserTestSuite.PositionalArgTest" end time: Dec 20 10:10 RTZ 2 (çèìà)
+"ArgParserTestSuite.PositionalArgTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/17 Testing: ArgParserTestSuite.PositionalAndNormalArgTest
+14/17 Test: ArgParserTestSuite.PositionalAndNormalArgTest
+Command: "D:/university/c++/laba4/build/tests/Debug/argparser_tests.exe" "--gtest_filter=ArgParserTestSuite.PositionalAndNormalArgTest" "--gtest_also_run_disabled_tests"
+Directory: D:/university/c++/laba4/build/tests
+"ArgParserTestSuite.PositionalAndNormalArgTest" start time: Dec 20 10:10 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\university\c++\laba4\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = ArgParserTestSuite.PositionalAndNormalArgTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArgParserTestSuite
+[ RUN      ] ArgParserTestSuite.PositionalAndNormalArgTest
+[       OK ] ArgParserTestSuite.PositionalAndNormalArgTest (0 ms)
+[----------] 1 test from ArgParserTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"ArgParserTestSuite.PositionalAndNormalArgTest" end time: Dec 20 10:10 RTZ 2 (çèìà)
+"ArgParserTestSuite.PositionalAndNormalArgTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/17 Testing: ArgParserTestSuite.RepeatedParsingTest
+15/17 Test: ArgParserTestSuite.RepeatedParsingTest
+Command: "D:/university/c++/laba4/build/tests/Debug/argparser_tests.exe" "--gtest_filter=ArgParserTestSuite.RepeatedParsingTest" "--gtest_also_run_disabled_tests"
+Directory: D:/university/c++/laba4/build/tests
+"ArgParserTestSuite.RepeatedParsingTest" start time: Dec 20 10:10 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\university\c++\laba4\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = ArgParserTestSuite.RepeatedParsingTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArgParserTestSuite
+[ RUN      ] ArgParserTestSuite.RepeatedParsingTest
+[       OK ] ArgParserTestSuite.RepeatedParsingTest (0 ms)
+[----------] 1 test from ArgParserTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.08 sec
+----------------------------------------------------------
+Test Passed.
+"ArgParserTestSuite.RepeatedParsingTest" end time: Dec 20 10:10 RTZ 2 (çèìà)
+"ArgParserTestSuite.RepeatedParsingTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+16/17 Testing: ArgParserTestSuite.HelpTest
+16/17 Test: ArgParserTestSuite.HelpTest
+Command: "D:/university/c++/laba4/build/tests/Debug/argparser_tests.exe" "--gtest_filter=ArgParserTestSuite.HelpTest" "--gtest_also_run_disabled_tests"
+Directory: D:/university/c++/laba4/build/tests
+"ArgParserTestSuite.HelpTest" start time: Dec 20 10:10 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\university\c++\laba4\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = ArgParserTestSuite.HelpTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArgParserTestSuite
+[ RUN      ] ArgParserTestSuite.HelpTest
+My Parser
+Available arguments:
+  -h, --help : Some Description about program
+[       OK ] ArgParserTestSuite.HelpTest (0 ms)
+[----------] 1 test from ArgParserTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"ArgParserTestSuite.HelpTest" end time: Dec 20 10:10 RTZ 2 (çèìà)
+"ArgParserTestSuite.HelpTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+17/17 Testing: ArgParserTestSuite.HelpStringTest
+17/17 Test: ArgParserTestSuite.HelpStringTest
+Command: "D:/university/c++/laba4/build/tests/Debug/argparser_tests.exe" "--gtest_filter=ArgParserTestSuite.HelpStringTest" "--gtest_also_run_disabled_tests"
+Directory: D:/university/c++/laba4/build/tests
+"ArgParserTestSuite.HelpStringTest" start time: Dec 20 10:10 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\university\c++\laba4\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = ArgParserTestSuite.HelpStringTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArgParserTestSuite
+[ RUN      ] ArgParserTestSuite.HelpStringTest
+My Parser
+Available arguments:
+  -h, --help : Some Description about program
+  -s, --flag1 : Use some logic [default = true]
+  -p, --flag2 : Use some logic
+  -i, --input <string> : File path for input file
+      --numer <int> : Some Number
+[       OK ] ArgParserTestSuite.HelpStringTest (0 ms)
+[----------] 1 test from ArgParserTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"ArgParserTestSuite.HelpStringTest" end time: Dec 20 10:10 RTZ 2 (çèìà)
+"ArgParserTestSuite.HelpStringTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Dec 20 10:10 RTZ 2 (çèìà)

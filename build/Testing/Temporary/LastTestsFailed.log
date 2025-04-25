@@ -1,0 +1,4 @@
+2:ArgParserTestSuite.StringTest
+3:ArgParserTestSuite.ShortNameTest
+4:ArgParserTestSuite.DefaultTest
+7:ArgParserTestSuite.MultiStringTest

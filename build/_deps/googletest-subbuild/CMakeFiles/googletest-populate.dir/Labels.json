@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/university/c++/laba4/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate"
+		},
+		{
+			"file" : "D:/university/c++/laba4/build/_deps/googletest-subbuild/CMakeFiles/68de5d806a17c2d79adfb04116d9f77b/googletest-populate.rule"
+		},
+		{
+			"file" : "D:/university/c++/laba4/build/_deps/googletest-subbuild/CMakeFiles/30f6022a1753a1292edbcb641a7053a6/googletest-populate-complete.rule"
+		},
+		{
+			"file" : "D:/university/c++/laba4/build/_deps/googletest-subbuild/CMakeFiles/a92aff2ef1cdf93a248857a12a1053f5/googletest-populate-build.rule"
+		},
+		{
+			"file" : "D:/university/c++/laba4/build/_deps/googletest-subbuild/CMakeFiles/a92aff2ef1cdf93a248857a12a1053f5/googletest-populate-configure.rule"
+		},
+		{
+			"file" : "D:/university/c++/laba4/build/_deps/googletest-subbuild/CMakeFiles/a92aff2ef1cdf93a248857a12a1053f5/googletest-populate-download.rule"
+		},
+		{
+			"file" : "D:/university/c++/laba4/build/_deps/googletest-subbuild/CMakeFiles/a92aff2ef1cdf93a248857a12a1053f5/googletest-populate-install.rule"
+		},
+		{
+			"file" : "D:/university/c++/laba4/build/_deps/googletest-subbuild/CMakeFiles/a92aff2ef1cdf93a248857a12a1053f5/googletest-populate-mkdir.rule"
+		},
+		{
+			"file" : "D:/university/c++/laba4/build/_deps/googletest-subbuild/CMakeFiles/a92aff2ef1cdf93a248857a12a1053f5/googletest-populate-patch.rule"
+		},
+		{
+			"file" : "D:/university/c++/laba4/build/_deps/googletest-subbuild/CMakeFiles/a92aff2ef1cdf93a248857a12a1053f5/googletest-populate-test.rule"
+		},
+		{
+			"file" : "D:/university/c++/laba4/build/_deps/googletest-subbuild/CMakeFiles/a92aff2ef1cdf93a248857a12a1053f5/googletest-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"googletest-populate"
+		],
+		"name" : "googletest-populate"
+	}
+}

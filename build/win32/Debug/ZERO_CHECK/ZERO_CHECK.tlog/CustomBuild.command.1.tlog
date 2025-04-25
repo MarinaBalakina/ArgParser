@@ -1,0 +1,10 @@
+^D:\UNIVERSITY\C++\LABA4\BUILD\CMAKEFILES\F5A60DEDE491DB220F86C4F9860E8F69\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/university/c++/laba4 -BD:/university/c++/laba4/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/university/c++/laba4/build/labwork4.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

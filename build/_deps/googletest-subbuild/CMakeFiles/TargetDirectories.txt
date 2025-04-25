@@ -1,0 +1,3 @@
+D:/university/c++/laba4/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir
+D:/university/c++/laba4/build/_deps/googletest-subbuild/CMakeFiles/ALL_BUILD.dir
+D:/university/c++/laba4/build/_deps/googletest-subbuild/CMakeFiles/ZERO_CHECK.dir
